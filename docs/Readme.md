@@ -41,11 +41,11 @@ I will separate in another file "tweets_geo.csv" all the different tweets with t
 
 The details of the code for the API REST is in the folder API in this repository
 
-![alt text](https://wittline.github.io/SparkSQL-with-Python/Images/Api1.PNG)
+![alt text](https://wittline.github.io/SparkSQL-with-Python/images/api1.PNG)
 
-![alt text](https://wittline.github.io/SparkSQL-with-Python/Images/Api2.PNG)
+![alt text](https://wittline.github.io/SparkSQL-with-Python/images/api2.PNG)
 
-![alt text](https://wittline.github.io/SparkSQL-with-Python/Images/Api3.PNG)
+![alt text](https://wittline.github.io/SparkSQL-with-Python/images/api3.PNG)
 
 
 </p>
