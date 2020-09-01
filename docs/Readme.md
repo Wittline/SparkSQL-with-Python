@@ -50,3 +50,14 @@ The details of the code for the API REST is in the folder API in this repository
 
 </p>
 
+
+# Contributing and Feedback
+Any ideas or feedback about this repository?. Help me to improve it.
+
+# Authors
+- Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
+- Created on 2020
+
+# License
+This project is licensed under the terms of the MIT license.
+
