@@ -1,6 +1,5 @@
 # SparkSQL with Python
 
-<p>
 
 This repository has some examples of using Spark and SparkSQL with Python through PySpark
 
@@ -46,7 +45,6 @@ The details of the code for the API REST is in the folder API in this repository
 ![alt text](https://wittline.github.io/SparkSQL-with-Python/images/api3.PNG)
 
 
-</p>
 
 
 # Contributing and Feedback
