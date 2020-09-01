@@ -42,7 +42,10 @@ The details of the code for the API REST is in the folder API in this repository
 
 ![alt text](https://wittline.github.io/SparkSQL-with-Python/images/api1.PNG)
 
+
 ![alt text](https://wittline.github.io/SparkSQL-with-Python/images/api2.PNG)
+
+
 
 ![alt text](https://wittline.github.io/SparkSQL-with-Python/images/api3.PNG)
 
