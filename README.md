@@ -27,8 +27,6 @@ We will work with the Profeco dataset, which you can download here: [Profeco](ht
 
 I will separate in another file "tweets_geo.csv" all the different tweets with their geographic data information, this will help in the manipulation of this data in a query with sparkSQL
 
-    enter code here
-
 [Check the code here](url)
 </p>
 
