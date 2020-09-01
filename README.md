@@ -8,7 +8,9 @@ This repository has some examples of using Spark and SparkSQL with Python throug
 
 We will work with the Profeco dataset, which you can download here: [Profeco](https://drive.google.com/uc?export=download&id=0B-4W2dww7ELNazFfOFVhNG5vckE) , is a daily historical record of more than 2,000 products, as of 2015, in various establishments in Mexico
 
-[Check the code here](url)
+<details closed>
+<summary> <a href="https://wittline.github.io/SparkSQL-with-Python/Profeco.html">Check the code here</a> </summary>
+</details>
 
 **How many records are there?** 
 
@@ -24,13 +26,28 @@ We will work with the Profeco dataset, which you can download here: [Profeco](ht
 
 ## Countries airports
 
-[Check the code here](url)
+
+<details closed>
+<summary> <a href="https://wittline.github.io/SparkSQL-with-Python/Airports.html">Check the code here</a> </summary>
+</details>
 
 
 ## API to count the number of tweets in a radius of 1km
 
 I will separate in another file "tweets_geo.csv" all the different tweets with their geographic data information, this will help in the manipulation of this data in a query with sparkSQL
 
-[Check the code here](url)
+<details closed>
+<summary> <a href="https://wittline.github.io/SparkSQL-with-Python/Tweet_Count.html">Check the data preparation code here</a> </summary>
+</details>
+
+The details of the code for the API REST is in the folder API in this repository
+
+![alt text](https://wittline.github.io/SparkSQL-with-Python/Images/Api1.PNG)
+
+![alt text](https://wittline.github.io/SparkSQL-with-Python/Images/Api2.PNG)
+
+![alt text](https://wittline.github.io/SparkSQL-with-Python/Images/Api3.PNG)
+
+
 </p>
 
