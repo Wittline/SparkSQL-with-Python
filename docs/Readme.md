@@ -12,15 +12,15 @@ We will work with the Profeco dataset, which you can download here: [Profeco](ht
 <summary> <a href="https://wittline.github.io/SparkSQL-with-Python/Profeco.html">Check the code here</a> </summary>
 </details>
 
-* How many records are there?** 
+* How many records are there?
 
-* How many categories are there?**
+* How many categories are there?
 
-* How many trade chains are being monitored (and therefore reported in that database)?**
+* How many trade chains are being monitored (and therefore reported in that database)?
 
-* What are the most monitored products in each state of the country?**
+* What are the most monitored products in each state of the country?
 
-* What is the trade chain with the greatest variety of monitored products?**
+* What is the trade chain with the greatest variety of monitored products?
 
 
 ## Countries airports
