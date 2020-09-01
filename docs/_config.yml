@@ -1,3 +1,20 @@
 theme: jekyll-theme-cayman
 title: "SparkSQL with Python"
 description: "This repository has some examples using Spark and SparkSQL with Python through PySpark"
+authors:
+  hanzou:
+    name: Hanzou Hattori
+    display_name: Hanzou
+    gravatar: c66919cb194f96c696c1da0c47354a6a
+    email: hanzou@company.com
+    web: http://company.com
+    twitter: company
+    github: hhattori
+  jorgen:
+    name: Jörgen Mortensen
+    display_name: Jörgen
+    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
+    email: jorgen@company.com
+    web: http://company.com
+    twitter: company
+    github: jorgenm
