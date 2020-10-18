@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: "SparkSQL with Python"
 description: "This repository has some examples using Spark and SparkSQL with Python through PySpark"
+author: "Ramses Alexander Coraspe Valdez"
