@@ -19,7 +19,6 @@ We will work with the Profeco dataset, which you can download here: [Profeco](ht
 ## Countries airports
 
 
-
 <a href="https://wittline.github.io/SparkSQL-with-Python/Airports.html">Check the code here</a>
 
 ## API to count the number of tweets in a radius of 1km
